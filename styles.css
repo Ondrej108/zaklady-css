@@ -1,0 +1,51 @@
+:root{
+    --green1-color: hsl(117, 30%, 75%);
+    --green2-color: hsl(130, 19%, 94%);
+    --green3-color: hsl(116, 87%, 24%);
+    --green4-color: hsl(116, 33%, 39%);
+   
+}
+.body {font-family: Arial, Helvetica, sans-serif; max-width:  60%;margin-bottom: 2%;}
+
+img {height: 300px; width: 300x; float: left; padding-right: 40px;}
+
+h1 {text-align: center;}
+
+.line {margin-left: 20px; margin-right: 20px; margin-bottom: 25px; border: solid 1px}
+
+.personal {background-color: var(--green1-color); padding: 20px;}
+
+#personal {text-align: left;}
+
+#moto {padding-top: 50px; text-decoration: underline; font-style: italic;}
+
+a:hover {color: hsl(117, 30%, 75%);}
+
+.experience {padding: 20px; margin-top: 20px; background-color: var(--green2-color);}
+
+h3 {color: var(--green3-color)}
+
+.education {background-color: var(--green2-color); padding: 20px; margin-top: 20px; padding-bottom: 5px}
+
+h2 {text-align:center;background-color: var(--green1-color);}
+
+table {border: 1px solid; border-collapse: collapse; width: 100%}
+
+td, th {border: 1px solid; text-align: left; padding-left: 20px; padding-top: 10px; padding-bottom: 10px;}
+
+td {background-color: var(--green2-color);}
+
+th {text-align:center;}
+
+.Interests {background-color: var(--green2-color); padding-bottom: 5px}
+
+
+
+
+
+
+
+
+
+
+
